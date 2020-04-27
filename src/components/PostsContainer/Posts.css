@@ -51,6 +51,7 @@
 }
 .like-number {
   width: 100px;
-  margin: 15px 0px;
+  margin: 15px -2%;
   font-size: 16px;
+  font-weight: bold;
 }
